@@ -1,0 +1,9 @@
+[submodule "App"]
+	path = App
+	url = https://github.com/Project-Ontwikkeling-Mixed/App
+[submodule "Web"]
+	path = Web
+	url = https://github.com/Project-Ontwikkeling-Mixed/Web
+[submodule "Project-Management"]
+	path = Project-Management
+	url = https://github.com/Project-Ontwikkeling-Mixed/Project-Management
